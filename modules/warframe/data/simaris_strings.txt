@@ -34,3 +34,10 @@ This is but a trifle of the knowledge I would give you, if you were to join me i
 Knowledge is the path to the singularity.
 Let us begin the final hunt.
 We are creatures of light and memory, but creatures none the less.
+Your thirst for knowledge is as insatiable as mine.
+Hunter, this target is my current obsession. I must know its every detail. Will you oblige my passion?
+I can tell, you find thrill in the hunt. Come back later for a new target.
+Return to me and hunt again, Tenno. I will reward you.
+You are a worthy hunter, Tenno.
+I will share what I know, but you must prove yourself deserving.
+Knowledge must be earned, Tenno. I will share what I know, but you must prove yourself deserving. Hunt this creature for me, perform Synthesis, and you will be enlightened.
